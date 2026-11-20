@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-/* background-color:white */
-=======
-/* h1{
-    background-color: red;
-} */
->>>>>>> 7b268ea (The modification is done)
+body {
+  background-color: white;
+}
+
+h1 {
+  background-color: red;
+}
